@@ -1,0 +1,1 @@
+# Safari-Password-Generator-Extension
